@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+</head>
+
+<body>
+   <P>hello world!</p>
+   
+   <p>selanat datang di tugasWeb</p>
+</body>
+</html>
